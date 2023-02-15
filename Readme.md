@@ -4,7 +4,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [Add solution URL here]
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/ordersumarycomponent-Usks6zqgCe)
 - Live Site URL: [Site](https://order-sumary-selvex.netlify.app/)
 
 ### Built with
